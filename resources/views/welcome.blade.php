@@ -81,12 +81,18 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Yummy Pizza Online Shop
+                    YUMMY PIZZA ONLINE SHOP 
                 </div>
-                <div class="title m-b-md">
-                    LARAVEL BACKEND APIS
-                </div>
-
+                <h1>LARAVEL BACKEND APIS</h1>
+                <ul>
+                    <li>GET ALL PIZZAS API [Method = GET]</li>
+                    <li>GET PIZZAS BY ID [Method = GET]</li>
+                    <li>CREATE PIZZAS [Method = POST]</li>
+                    <li>UPDATE PIZZAS BY ID [Method = PUT]</li>
+                    <li>DELETE PIZZAS BY ID [Method = DELETE]</li>
+                    <li>OTHER ADHOC APIS</li>
+                </ul>
+               <!-- 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
@@ -97,6 +103,7 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+                -->
             </div>
         </div>
     </body>
