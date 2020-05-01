@@ -36,3 +36,9 @@ Route::get('pizzaorder/{id}', 'PizzaorderController@show');
 Route::post('pizzaorder', 'PizzaorderController@store');
 Route::put('pizzaorder/{id}', 'PizzaorderController@update');
 Route::delete('pizzaorder/{id}', 'PizzaorderController@destroy');
+//DELIVERYFEE
+Route::get('deliveryfees', 'DeliveryfeeController@index');
+Route::get('deliveryfee/{id}', 'DeliveryfeeController@show');
+Route::post('deliveryfee', 'DeliveryfeeController@store');
+Route::put('deliveryfee/{id}', 'DeliveryfeeController@update');
+Route::delete('deliveryfee/{id}', 'DeliveryfeeController@destroy');

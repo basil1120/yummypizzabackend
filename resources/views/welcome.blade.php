@@ -81,7 +81,10 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Yummy Pizza Online Shop
+                </div>
+                <div class="title m-b-md">
+                    LARAVEL BACKEND APIS
                 </div>
 
                 <div class="links">
