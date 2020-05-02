@@ -31,3 +31,13 @@ TECHNOLOGIES STACK IMPLIED
 - React JS
 - MySQL database
 - RESTFULL API
+
+Test Instructions:
+    1. Open the front-end demo url
+    2. Click the +(plus) button to add pizza of choice to your shopping cart.
+    3. Click My Cart Link to view items on cart OR add quantity.
+    4. Fill in customer details ie. Name, Phone , Location  and Additional details
+    5. Check the shipping cost check-box
+    6. Click Checkout Button and wait for success notification.
+    7. On the above button-click order details are posted to the database table for orders.
+    8. The order history can be fetched by the laravel backend api GET METHOD : https://yummypizza.herokuapp.com/api/pizzaorders
